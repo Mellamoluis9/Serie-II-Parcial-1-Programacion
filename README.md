@@ -4,9 +4,9 @@
 
 # Programa en C++ para gestionar objetos de una clase
 
-Este programa en C++ crea cinco objetos diferentes a partir de una clase para una tienda de ropa. Cada objeto tiene al menos cuatro atributos y métodos que representan su comportamiento en el programa.
+Serie II Primer Parcial - Programacion
 
-## Logo de la Universidad Mariano Gálvez de Guatemala
+## Universidad Mariano Gálvez de Guatemala
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Escudo_de_la_universidad_Mariano_G%C3%A1lvez_Guatemala.svg" alt="Logo de la Universidad Mariano Gálvez de Guatemala" width="100px">
